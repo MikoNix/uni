@@ -7,6 +7,7 @@ doc = DocxTemplate("templates/123.docx")
 context = {
     'lab_number': 1,  # Укажите номер лабораторной работы
     'var_number': 5      # Укажите вариант
+    
 }
 
 # Замена меток данными
